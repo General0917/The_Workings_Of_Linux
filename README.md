@@ -1,0 +1,2 @@
+# The_Workings_Of_Linux
+Linuxのしくみ学習用リポジトリ
